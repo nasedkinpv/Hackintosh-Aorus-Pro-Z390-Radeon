@@ -23,7 +23,7 @@
 - Ethernet — IntelMausi.kext
 - Audio — AppleALC.kext
 - GPU/iGPU Hardware Acceleration — WhateverGreen / RadeonBoost
-- USB and internal USB-C — from [[sarkrui build]([https://github.com/sarkrui/Hackintosh-Z390-Aorus-Pro-9700K-RX580])]
+- USB and internal USB-C — from [[sarkrui build](https://github.com/sarkrui/Hackintosh-Z390-Aorus-Pro-9700K-RX580)]
 - iCloud Services / Handoff
 - DRM Content
 - HEVC/H264 encoding with FFmpeg
