@@ -9,8 +9,11 @@
 - GPU — Sapphire Radeon RX 480 (new ones will work too)
 
 [[OpenCore — Coffee Lake Guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html)]
+
 [[OpenCore — Intel HD 630](https://dortania.github.io/OpenCore-Desktop-Guide/extras/gpu-patches.html)]
+
 [[OpenCore — NVRAM B360, B365, H310, H370, Z390 Chipset](https://dortania.github.io/hackintosh/updates/2020/01/20/nvram.html)]
+
 [[OpenCore — Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)]
 
 ## What working
