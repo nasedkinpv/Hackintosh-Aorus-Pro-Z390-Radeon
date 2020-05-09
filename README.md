@@ -6,7 +6,7 @@
 - Memory — Kingston HyperX Fury DDR4 (2x16GB 3066 MHz)
 - SSD — Samsung NVMe EVO Pro 512GB
 - Wi-Fi — TP-Link Archer T9E
-- GPU — Sapphire Radeon RX 480
+- GPU — Sapphire Radeon RX 480 (new ones will work too)
 
 [[OpenCore — Coffee Lake Guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html)]
 [[OpenCore — Intel HD 630](https://dortania.github.io/OpenCore-Desktop-Guide/extras/gpu-patches.html)]
