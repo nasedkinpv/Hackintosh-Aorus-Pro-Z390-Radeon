@@ -3,14 +3,17 @@
 ### OpenCore 0.5.8
 - Motherboard — Gigabyte Aorus Pro Z390
 - Processor — Intel Core i9 9900K (8 cores / 16 threads, Coffee Lake)
-- Memory — Kingston HyperX Fury DDR4 (2x8GB 3066 MHz)
+- Memory — Kingston HyperX Fury DDR4 (2x16GB 3066 MHz)
 - SSD — Samsung NVMe EVO Pro 512GB
 - Wi-Fi — TP-Link Archer T9E
-- GPU — Sapphire Radeon RX 480
+- GPU — Sapphire Radeon RX 480 (new ones will work too)
 
 [[OpenCore — Coffee Lake Guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html)]
+
 [[OpenCore — Intel HD 630](https://dortania.github.io/OpenCore-Desktop-Guide/extras/gpu-patches.html)]
+
 [[OpenCore — NVRAM B360, B365, H310, H370, Z390 Chipset](https://dortania.github.io/hackintosh/updates/2020/01/20/nvram.html)]
+
 [[OpenCore — Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)]
 
 ## What working
@@ -20,7 +23,7 @@
 - Ethernet — IntelMausi.kext
 - Audio — AppleALC.kext
 - GPU/iGPU Hardware Acceleration — WhateverGreen / RadeonBoost
-- USB and internal USB-C — from [[sarkrui build]([https://github.com/sarkrui/Hackintosh-Z390-Aorus-Pro-9700K-RX580])]
+- USB and internal USB-C — from [[sarkrui build](https://github.com/sarkrui/Hackintosh-Z390-Aorus-Pro-9700K-RX580)]
 - iCloud Services / Handoff
 - DRM Content
 - HEVC/H264 encoding with FFmpeg
