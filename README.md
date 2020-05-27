@@ -41,9 +41,9 @@ Platform name — iMac19,1.
 HINT: ROM — you can use your ethernet MAC address
 ![N|Solid](http://nasedk.in/public/hackintosh_smbios.png)
 ### UEFI Drivers
-![N|Solid](http://nasedk.in/public/hackintosh_uefi_drivers.png)
+
 ### Kexts
-![Z390 Aorus Pro Kexts](http://nasedk.in/public/hackintosh_kexts.png)
+
 
 ## Overview
 
