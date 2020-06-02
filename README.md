@@ -3,7 +3,7 @@
 ### OpenCore 0.5.8
 - Motherboard — Gigabyte Aorus Pro Z390
 - Processor — Intel Core i9 9900K (8 cores / 16 threads, Coffee Lake)
-- Memory — Kingston HyperX Fury DDR4 (2x16GB 3066 MHz)
+- Memory — Kingston HyperX Fury DDR4 (2x16GB 3466 MHz)
 - SSD — Samsung NVMe EVO Pro 512GB
 - Wi-Fi — TP-Link Archer T9E
 - GPU — Sapphire Radeon RX 480 (new ones will work too)
@@ -22,11 +22,11 @@
 - Wi-FI — AirportBrcmFixup.kext
 - Ethernet — IntelMausi.kext
 - Audio — AppleALC.kext
-- GPU/iGPU Hardware Acceleration — WhateverGreen / RadeonBoost
-- USB and internal USB-C — from [[sarkrui build](https://github.com/sarkrui/Hackintosh-Z390-Aorus-Pro-9700K-RX580)]
+- GPU/iGPU Hardware Acceleration — WhateverGreen
+- USBMap
 - iCloud Services / Handoff
 - DRM Content
-- HEVC/H264 encoding with FFmpeg
+- HEVC/H264 encoding
 ### Known issues
 —
 
@@ -41,9 +41,9 @@ Platform name — iMac19,1.
 HINT: ROM — you can use your ethernet MAC address
 ![N|Solid](http://nasedk.in/public/hackintosh_smbios.png)
 ### UEFI Drivers
-![N|Solid](http://nasedk.in/public/hackintosh_uefi_drivers.png)
+
 ### Kexts
-![Z390 Aorus Pro Kexts](http://nasedk.in/public/hackintosh_kexts.png)
+
 
 ## Overview
 
