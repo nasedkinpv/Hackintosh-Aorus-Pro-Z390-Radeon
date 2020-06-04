@@ -1,5 +1,5 @@
 # Hackintosh Gigabyte Z390 Aorus Pro/Intel 9th Generation/Radeon
-## macOS Catalina 10.15.4
+## macOS Catalina 10.15.5
 ### OpenCore 0.5.9
 - Motherboard — Gigabyte Aorus Pro Z390
 - Processor — Intel Core i9 9900K (8 cores / 16 threads, Coffee Lake)
