@@ -1,6 +1,6 @@
 # Hackintosh Gigabyte Z390 Aorus Pro/Intel 9th Generation/Radeon
 ## macOS Big Sur 11.1
-### OpenCore 0.5.9
+### OpenCore 0.6.4
 - Motherboard — Gigabyte Aorus Pro Z390
 - Processor — Intel Core i9 9900K (8 cores / 16 threads, Coffee Lake)
 - Memory — Kingston HyperX Fury DDR4 (2x16GB 2666 MHz)
