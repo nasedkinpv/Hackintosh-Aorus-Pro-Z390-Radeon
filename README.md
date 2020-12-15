@@ -1,5 +1,5 @@
 # Hackintosh Gigabyte Z390 Aorus Pro/Intel 9th Generation/Radeon
-## macOS Catalina 10.15.5
+## macOS Big Sur 11.1
 ### OpenCore 0.5.9
 - Motherboard — Gigabyte Aorus Pro Z390
 - Processor — Intel Core i9 9900K (8 cores / 16 threads, Coffee Lake)
@@ -23,7 +23,7 @@
 - Ethernet — IntelMausi.kext
 - Audio — AppleALC.kext
 - GPU/iGPU Hardware Acceleration — WhateverGreen
-- USBMap
+- USB
 - iCloud Services / Handoff
 - DRM Content
 - HEVC/H264 encoding
@@ -32,11 +32,11 @@
 
 ## Guide
 ### BIOS Setup
-* Update your bios to latest F12d — [[download link](https://download.gigabyte.com/FileList/BIOS/mb_bios_z390-aorus-pro_f12d.zip)]
+* Update your bios to latest F12f — [[download link](https://download.gigabyte.com/FileList/BIOS/mb_bios_z390-aorus-pro_f12k.zip)]
 ### Generate your SMBIOS
 * GenSMBios [[GitHub link](https://github.com/corpnewt/GenSMBIOS)]
 For reference, follow this guide [[OpenCore — Fix iServices](https://dortania.github.io/OpenCore-Desktop-Guide/post-install/iservices.html)]
-Platform name — iMac19,1.
+Platform name — iMac19,1
 ### Correct your config.plist
 HINT: ROM — you can use your ethernet MAC address
 ![N|Solid](http://nasedk.in/public/hackintosh_smbios.png)
