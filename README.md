@@ -39,21 +39,6 @@ For reference, follow this guide [[OpenCore — Fix iServices](https://dortania.
 Platform name — iMac19,1
 ### Correct your config.plist
 HINT: ROM — you can use your ethernet MAC address
-![N|Solid](http://nasedk.in/public/hackintosh_smbios.png)
-### UEFI Drivers
-
-### Kexts
-
-
-## Overview
-
-
-
-### GeekBench 5
-![N|Solid](http://nasedk.in/public/hackintosh_geekbench.png)
-![N|Solid](http://nasedk.in/public/hackintosh_metal.png)
-### HEVC/H264 Intel UHD 630 Hardware Acceleration
-![N|Solid](http://nasedk.in/public/hackintosh_hardware_acceleration.png)
 
 ### Credits
 | Author | Link |
