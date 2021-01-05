@@ -17,7 +17,11 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
+<<<<<<< HEAD
 	<string>1.5.6</string>
+=======
+	<string>1.5.5</string>
+>>>>>>> 1dd884f50fd2e52496566ccc0bd95c25d689fc93
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +29,11 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
+<<<<<<< HEAD
 	<string>1.5.6</string>
+=======
+	<string>1.5.5</string>
+>>>>>>> 1dd884f50fd2e52496566ccc0bd95c25d689fc93
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -94,6 +102,58 @@
 					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>CodecID</key>
+					<integer>283902569</integer>
+					<key>Comment</key>
+					<string>Custom ALC269VD for ThinkPad T430</string>
+					<key>ConfigData</key>
+					<data>
+					ASccEAEnHQEBJx6mAScfkAFHHEABRx0BAUce
+					FwFHH5ABVxxQAVcdEAFXHiEBVx8CAXcc8AF3
+					HQABdx4AAXcfQAGHHCABhx0QAYcegQGHHwIB
+					lxxwAZcdEAGXHqEBlx8CAacccAGnHRABpx6h
+					AacfAgG3HHABtx0QAbceoQG3HwIB1xxwAdcd
+					EAHXHqEB1x8CAecccAHnHRAB5x6hAecfAgFH
+					DAI=
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>23</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AUcMAg==
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>CodecID</key>
+					<integer>287143573</integer>
+					<key>Comment</key>
+					<string>Toshiba Satellite Pro C50</string>
+					<key>ConfigData</key>
+					<data>
+					AKccQACnHRAApx4hAKcfAQC3HCAAtx0QALce
+					gQC3HwEAxxzwAMcdAADHHgAAxx9AANccMADX
+					HQEA1x4QANcfkADnHBAA5x0BAOceoADnH5AA
+					9xzwAPcdAAD3HgAA9x9AAYcc8AGHHQABhx4A
+					AYcfQA==
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>11</integer>
 				</dict>
 				<dict>
 					<key>AFGLowPowerState</key>
@@ -880,6 +940,7 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
+<<<<<<< HEAD
 					<string>ALC222 aka ALC3205-CG for HP EliteDesk 800 G6 Mini</string>
 					<key>CodecID</key>
 					<integer>283902498</integer>
@@ -906,6 +967,8 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
+=======
+>>>>>>> 1dd884f50fd2e52496566ccc0bd95c25d689fc93
 					<string>ALC225/ALC3253 on dell 7579 by ChalesYu</string>
 					<key>CodecID</key>
 					<integer>283902501</integer>
@@ -1625,6 +1688,7 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
+<<<<<<< HEAD
 					<string>Realtek ALC235 for Lenovo Ideacentre Mini 5</string>
 					<key>CodecID</key>
 					<integer>283902517</integer>
@@ -1655,6 +1719,8 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
+=======
+>>>>>>> 1dd884f50fd2e52496566ccc0bd95c25d689fc93
 					<string>ALC235 for Lenovo TianYi 510s Mini by DalianSky</string>
 					<key>CodecID</key>
 					<integer>283902517</integer>
